@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpaperaccess.com/full/1555147.png)](https://shibilymuhammed.in)
+[![MasterHead](https://github.com/Shibily-kms/Shibily-kms/blob/main/git%20banner.jpg)](https://shibilymuhammed.in)
 <h1 align="center">Hi 👋, I'm Shibily Muhammed</h1>
 <h3 align="center">MERN Stack developer in India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shibily-kms](https://github.com/Shibily-kms)
+- 👨‍💻 All of my projects are available at [Shibily-kms](https://github.com/Shibily-kms)
 
 - 💬 Ask me about **JavaScript and Node js**
 
