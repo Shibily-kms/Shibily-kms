@@ -29,9 +29,9 @@
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=shibily-kms&&theme=xcode)](https://github.com/shibily-kms)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shibily-kms&show_icons=true&locale=en&layout=compact" alt="shibily-kms" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shibily-kms&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shibily-kms" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shibily-kms&show_icons=true&locale=en" alt="shibily-kms" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shibily-kms&show_icons=true&locale=en&theme=tokyonight" alt="shibily-kms" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shibily-kms&" alt="shibily-kms" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shibily-kms&&theme=tokyonight" alt="shibily-kms" /></p>
 
