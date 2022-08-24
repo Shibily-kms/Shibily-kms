@@ -52,6 +52,9 @@
 <a href="https://fb.com/shibily muhammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shibily muhammed" height="30" width="40" /></a>
 <a href="https://instagram.com/shibily kms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shibily kms" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/shibily kms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shibily kms" height="30" width="40" /></a>
+<a href="https://discord.com/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" alt="shibily kms" height="30" width="40" /></a>
+<a href="https://dev.to/shibilykms" target="blank"><img align="center" src="https://iconape.com/wp-content/png_logo_vector/dev.png" alt="shibily kms" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19773789/shibily-kms" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="shibily kms" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <a href="https://twitter.com/officialshibily" target="blank"><img src="https://img.shields.io/twitter/follow/officialshibily?logo=twitter&style=for-the-badge" alt="officialshibily" /></a> </p>
+<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/officialshibily?logo=twitter&style=for-the-badge" alt="officialshibily" /></a> </p>
