@@ -39,13 +39,13 @@
    <a href="https://filmora.wondershare.net/filmora-video-editor.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wondershare_filmora_logo.svg/800px-Wondershare_filmora_logo.svg.png" alt="filmora" width="40" height="40"/> </a> 
 </p>
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=shibily-kms&&theme=xcode)](https://github.com/shibily-kms)
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=shibily-kms)](https://github.com/shibily-kms)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shibily-kms&show_icons=true&locale=en&theme=tokyonight" alt="shibily-kms" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shibily-kms&show_icons=true&locale=en" alt="shibily-kms" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shibily-kms&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shibily-kms" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shibily-kms&show_icons=true&locale=en&layout=compact" alt="shibily-kms" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shibily-kms&&theme=tokyonight" alt="shibily-kms" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shibily-kms" alt="shibily-kms" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
