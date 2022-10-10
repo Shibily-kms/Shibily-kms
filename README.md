@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Shibily-kms/Shibily-kms/blob/main/git%20banner%2.jpg)](https://shibilymuhammed.in)
+[![MasterHead](https://github.com/Shibily-kms/Shibily-kms/blob/main/git%20banner%202.jpg)](https://shibilymuhammed.in)
 <h1 align="center">Hi 👋, I'm Shibily Muhammed</h1>
 <h3 align="center">MERN Stack developer in India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
