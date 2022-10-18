@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [Shibily-kms](https://github.com/Shibily-kms)
 
-- 💬 Ask me about **JavaScript and Node js**
+- 💬 Ask me about **JavaScript,React.js and Node js**
 
-- 📫 How to reach me **kmsshibily@gmail.com**
+- 📫 How to reach me **shibilyofficail@gmail.com**
 
 
 <h3 align="left">Tech Stack:</h3>
