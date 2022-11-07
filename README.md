@@ -10,9 +10,9 @@
 
 - 👨‍💻 All of my projects are available at [Shibily-kms](https://github.com/Shibily-kms)
 
-- 💬 Ask me about **JavaScript,React.js and Node js**
+- 💬 Ask me about **JavaScript,React.js, Node js and MongoDB**
 
-- 📫 How to reach me **shibilyofficail@gmail.com**
+- 📫 How to reach me **shibilyofficial@gmail.com**
 
 
 <h3 align="left">Tech Stack:</h3>
@@ -58,7 +58,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/officialshibily" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="officialshibily" height="30" width="30" /></a>
+<a href="https://twitter.com/shibily_kms" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="@shibily_kms" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/shibily muhammed" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="shibily muhammed" height="30" width="30" /></a>
 <a href="https://fb.com/shibily muhammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shibily muhammed" height="30" width="30" /></a>
 <a href="https://instagram.com/shibily kms" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" alt="shibily kms" height="30" width="30" /></a>
