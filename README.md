@@ -23,6 +23,7 @@
       <a href="" target="_blank" rel="noreferrer"> <img src="https://www.pngitem.com/pimgs/m/206-2069866_transparent-css3-logo-png-jquery-logo-png-png.png" alt="jquery" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> </a> 
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> 
+          <a target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" alt="sass" width="40" height="40"/> 
    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="figma" width="40" height="40"/> </a> 
            <a href="https://www.adobe.com/in/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="xd" width="40" height="40"/> </a> 
