@@ -52,6 +52,8 @@
 </p>
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=shibily-kms)](https://github.com/shibily-kms)
+    
+<td align="center"><img width="100%"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shibily-kms&show_icons=true" /></td>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shibily-kms&show_icons=true&locale=en" alt="shibily-kms" width="50%" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shibily-kms&show_icons=true&locale=en&layout=compact" alt="shibily-kms" width="40%" /></p>
