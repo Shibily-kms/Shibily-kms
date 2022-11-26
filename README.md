@@ -56,9 +56,9 @@
 <td align="center"><img width="100%"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shibily-kms&show_icons=true" /></td>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shibily-kms&show_icons=true&locale=en" alt="shibily-kms" width="50%" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shibily-kms&show_icons=true&locale=en&layout=compact" alt="shibily-kms" width="40%" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shibily-kms&show_icons=true&locale=en&layout=compact" alt="shibily-kms" width="46%" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shibily-kms&" alt="shibily-kms" width="50%" /></p>
-<p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=shibily-kms&bc=ebebeb&ic=0E8AD9" alt="shibily-kms" width="40%" /></p>
+<p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=shibily-kms&bc=ebebeb&ic=0E8AD9" alt="shibily-kms" width="46%" /></p>
 
 
 <br>
