@@ -57,8 +57,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shibily-kms&show_icons=true&locale=en" alt="shibily-kms" width="50%" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shibily-kms&show_icons=true&locale=en&layout=compact" alt="shibily-kms" width="40%" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shibily-kms&" alt="shibily-kms" width="50%" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shibily-kms&" alt="shibily-kms" width="50%" /></p>
+<p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=shibily-kms&bc=ebebeb&ic=0E8AD9" alt="shibily-kms" width="40%" /></p>
 
+
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shibily_kms" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="@shibily_kms" height="30" width="30" /></a>
