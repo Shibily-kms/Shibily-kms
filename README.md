@@ -51,8 +51,8 @@
    <a href="https://filmora.wondershare.net/filmora-video-editor.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wondershare_filmora_logo.svg/800px-Wondershare_filmora_logo.svg.png" alt="filmora" width="40" height="40"/> </a> 
 </p>
 
-[![shibily's GitHub activity graph](https://activity-graph.heroku.com/graph?username=shibily-kms)](https://github.com/shibily-kms)
-    
+[![](https://activity-graph.heroku.com/graph?username=shibily-kms)](https://github.com/shibily-kms)
+
 <td align="center"><img width="100%"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shibily-kms&show_icons=true" /></td>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shibily-kms&show_icons=true&locale=en" alt="shibily-kms" width="50%" /></p>
