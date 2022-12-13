@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently working **Commenter project**
 
 - 👨‍💻 All of my projects are available at [Shibily-kms](https://github.com/Shibily-kms)
 
