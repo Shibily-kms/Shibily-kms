@@ -73,4 +73,3 @@
 <a href="https://stackoverflow.com/users/19773789/shibily-kms" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="shibily kms" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <a href="https://twitter.com/shibily_kms" target="blank"><img src="https://img.shields.io/twitter/follow/shibily_kms?logo=twitter&style=for-the-badge" alt="shibily_kms" /></a> </p>
