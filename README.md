@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **JavaScript,React.js, Node js and MongoDB**
 
-- 📫 How to reach me **shibilyofficial@gmail.com**
+- 📫 How to reach me **kmsshibily@gmail.com**
 
 
 <h3 align="left">Tech Stack:</h3>
