@@ -1,9 +1,8 @@
-[![MasterHead](https://github.com/Shibily-kms/Shibily-kms/blob/main/git%20banner%2022%20png.png)](https://shibilymuhammed.in)
-
+<!-- [![MasterHead](https://github.com/Shibily-kms/Shibily-kms/blob/main/git%20banner%2022%20png.png)](https://shibilymuhammed.in) -->
+<h1  align="center">SHIBILY MUHAMMED</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibily-kms&label=Profile%20views&color=0e75b6&style=flat" alt="shibily-kms" /> </p>
-
 
 
 - 🌱 I’m currently working **TimeTable Builder project**
@@ -17,27 +16,27 @@
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left"> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png" alt="react" width="40" height="40"/> </a>
      <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="react" width="50" height="40"/> </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="javascript" width="40" height="40"/> </a>
       <a href="" target="_blank" rel="noreferrer"> <img src="https://www.pngitem.com/pimgs/m/206-2069866_transparent-css3-logo-png-jquery-logo-png-png.png" alt="jquery" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> </a> 
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> 
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/css-icon.png" alt="css" width="40" height="40"/> </a> 
+   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" alt="html" width="40" height="40"/> 
           <a target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" alt="sass" width="40" height="40"/> 
-   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  
+   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/628/224/png-transparent-bootstrap-plain-wordmark-logo-icon.png" alt="bootstrap" width="40" height="40"/> </a>  
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="figma" width="40" height="40"/> </a> 
            <a href="https://www.adobe.com/in/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="xd" width="40" height="40"/> </a> 
-         </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+         </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-       <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+       <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png" alt="nodejs" width="40" height="40"/> </a> 
         <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/npm-3521612-2945056.png" alt="npm" width="40" height="40"/> </a> 
-       <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+       <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/545/451/png-transparent-node-js-express-js-javascript-solution-stack-web-application-others-angle-text-rectangle-thumbnail.png" alt="express" width="60" height="40"/> </a> 
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="mongodb" width="40" height="40"/> </a> 
         <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="postgresSQL" width="40" height="40"/> </a> 
    <a href="" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/300/1*R4c8lHBHuH5qyqOtZb3h-w.png" alt="Firebase" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
     <a href="https://hoppscotch.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/56705483" alt="hoppscotch" width="40" height="40"/> </a> 
-     <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
+     <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/816/934/png-transparent-nginx-hd-logo-thumbnail.png" alt="nginx" width="50" height="40"/> </a> 
       <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/png_logo_vector/cib-amazon-aws.png" alt="aws" width="40" height="40"/> </a> 
     <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1024px-DigitalOcean_logo.svg.png" alt="digital ocean" width="40" height="40"/> </a>
      
@@ -66,7 +65,7 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/shibily muhammed" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="shibily muhammed" height="30" width="30" /></a>
-<a href="https://fb.com/shibily muhammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shibily muhammed" height="30" width="30" /></a>
+<a href="https://fb.com/shibily muhammed" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" alt="shibily muhammed" height="30" width="30" /></a>
 <a href="https://instagram.com/shibily kms" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" alt="shibily kms" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/shibily kms" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="shibily kms" height="30" width="30" /></a>
 <a href="https://dev.to/shibilykms" target="blank"><img align="center" src="https://iconape.com/wp-content/png_logo_vector/dev.png" alt="shibily kms" height="30" width="40" /></a>
