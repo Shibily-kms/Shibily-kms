@@ -1,3 +1,4 @@
+<!-- Main Image -->
 <!-- [![MasterHead](https://github.com/Shibily-kms/Shibily-kms/blob/main/git%20banner%2022%20png.png)](https://shibilymuhammed.in) -->
 <h1  align="center">SHIBILY MUHAMMED</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -40,11 +41,6 @@
       <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/png_logo_vector/cib-amazon-aws.png" alt="aws" width="40" height="40"/> </a> 
     <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1024px-DigitalOcean_logo.svg.png" alt="digital ocean" width="40" height="40"/> </a>
      
-      
-    
-      
-      
-  
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Photoshop_CC_icon.png/640px-Photoshop_CC_icon.png" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/in/products/indesign.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/2101px-Adobe_InDesign_CC_icon.svg.png" alt="indesign" width="40" height="40"/> </a> 
    <a href="https://filmora.wondershare.net/filmora-video-editor.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wondershare_filmora_logo.svg/800px-Wondershare_filmora_logo.svg.png" alt="filmora" width="40" height="40"/> </a> 
@@ -60,6 +56,12 @@
 <p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=shibily-kms&bc=ebebeb&ic=0E8AD9" alt="shibily-kms" width="46%" /></p>
 
 
+![](https://github-contributor-stats.vercel.app/api?username=Shibily-kms&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
+
+
+
+
+
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -71,4 +73,13 @@
 <a href="https://dev.to/shibilykms" target="blank"><img align="center" src="https://iconape.com/wp-content/png_logo_vector/dev.png" alt="shibily kms" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19773789/shibily-kms" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="shibily kms" height="30" width="40" /></a>
 </p>
+
+
+
+<img src="https://raw.githubusercontent.com/Shibily-kms/Shibily-kms/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+
 
