@@ -48,13 +48,12 @@
 
 [![](https://activity-graph.heroku.com/graph?username=shibily-kms)](https://github.com/shibily-kms)
 
-<td align="center"><img width="100%"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shibily-kms&show_icons=true" /></td>
+<td align="center"><img width="100%"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shibily-kms&show_icons=true&hide_border=true" /></td>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shibily-kms&show_icons=true&locale=en" alt="shibily-kms" width="50%" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shibily-kms&show_icons=true&locale=en&layout=compact" alt="shibily-kms" width="45%" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shibily-kms&" alt="shibily-kms" width="50%" /></p>
-<p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=shibily-kms&bc=ebebeb&ic=0E8AD9" alt="shibily-kms" width="46%" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shibily-kms&show_icons=true&locale=en&hide_title=true&hide_border=true" alt="shibily-kms" width="50%" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shibily-kms&show_icons=true&locale=en&layout=compact&hide_title=true&hide_border=true" alt="shibily-kms" width="45%" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shibily-kms&hide_border=true" alt="shibily-kms" width="50%" /></p>
+<p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=shibily-kms&bc=ebebeb&ic=0E8AD9&hide_border=true" alt="shibily-kms" width="46%" /></p>
 
 ![](https://github-contributor-stats.vercel.app/api?username=Shibily-kms&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
 
@@ -73,13 +72,6 @@
 <a href="https://dev.to/shibilykms" target="blank"><img align="center" src="https://iconape.com/wp-content/png_logo_vector/dev.png" alt="shibily kms" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19773789/shibily-kms" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="shibily kms" height="30" width="40" /></a>
 </p>
-
-
-
-<img src="https://raw.githubusercontent.com/Shibily-kms/Shibily-kms/output/snake.svg" alt="Snake animation" />
-
-###
-
 
 
 
