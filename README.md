@@ -6,11 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibily-kms&label=Profile%20views&color=0e75b6&style=flat" alt="shibily-kms" /> </p>
 
 
-- 🌱 I’m currently working **TimeTable Builder project**
+- 🌱 I’m currently working **Alliance_Thrissur**
 
 - 👨‍💻 All of my projects are available at [Shibily-kms](https://github.com/Shibily-kms)
 
-- 💬 Ask me about **JavaScript,React.js, Node js and MongoDB**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **kmsshibily@gmail.com**
 
