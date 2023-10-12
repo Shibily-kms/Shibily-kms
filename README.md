@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibily-kms&label=Profile%20views&color=0e75b6&style=flat" alt="shibily-kms" /> </p>
 
 
-- 🌱 I’m currently working **Alliance_Thrissur**
+- 🌱 I’m currently working at **Alliance_Thrissur**
 
 - 👨‍💻 All of my projects are available at [Shibily-kms](https://github.com/Shibily-kms)
 
@@ -17,7 +17,8 @@
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left"> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png" alt="react" width="40" height="40"/> </a>
+    <a href="" target="_blank" rel="noreferrer"> <img src="https://pulkitgangwar.gallerycdn.vsassets.io/extensions/pulkitgangwar/nextjs-snippets/1.0.1/1678968590213/Microsoft.VisualStudio.Services.Icons.Default" alt="next.js" width="40" height="40"/> </a>
+     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png" alt="react" width="40" height="40"/> </a>
      <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="react" width="50" height="40"/> </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="javascript" width="40" height="40"/> </a>
       <a href="" target="_blank" rel="noreferrer"> <img src="https://www.pngitem.com/pimgs/m/206-2069866_transparent-css3-logo-png-jquery-logo-png-png.png" alt="jquery" width="40" height="40"/> </a> 
